@@ -1,0 +1,72 @@
+{
+  "dishes": [{
+      "id": 0,
+      "name": "tomato chiken",
+      "ingredints": [{
+          "id": 0,
+          "name": "chiken",
+          "num": 10,
+          "unit": "g"
+        },
+        {
+          "id": 1,
+          "name": "tomato",
+          "num": 1,
+          "unit": "%"
+        },
+        {
+          "id": 2,
+          "name": "onion",
+          "num": 5,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "new york steak",
+      "ingredints": [{
+          "id": 0,
+          "name": "beef",
+          "num": 1,
+          "unit": "%"
+        },
+        {
+          "id": 1,
+          "name": "paper",
+          "num": 5,
+          "unit": "g"
+        },
+        {
+          "id": 2,
+          "name": "butter",
+          "num": 10,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "红烧排骨",
+      "ingredints": [{
+          "id": 0,
+          "name": "🐷",
+          "num": 1,
+          "unit": "%"
+        },
+        {
+          "id": 1,
+          "name": "🐦",
+          "num": 5,
+          "unit": "g"
+        },
+        {
+          "id": 2,
+          "name": "🚬",
+          "num": 10,
+          "unit": "g"
+        }
+      ]
+    }
+  ]
+}
